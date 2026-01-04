@@ -1,8 +1,8 @@
-📌 Project: Cartoon UI Interaction Concept
+# Project: Cartoon UI Interaction Concept
 
 This project is a UI interaction exploration focused on scrolling behavior and content transitions, inspired by familiar animated characters.
 
-✨ Key Focus Areas
+#Key Focus Areas
 
 Scroll-based layout structure
 
@@ -11,3 +11,19 @@ Clip content and overflow handling
 Section-based content presentation
 
 Smart Animate for smooth transitions
+
+What this project represents
+
+This is a design-first approach to understanding how modern web interfaces behave before implementation. The goal is to bridge the gap between UI design and frontend development.
+
+# Tools & Skills
+
+Figma (UI design & prototyping)
+
+UI/UX fundamentals
+
+Layout hierarchy & interaction design
+
+Learning frontend concepts (HTML, CSS, JS)
+
+Learning Python for programming fundamentals
