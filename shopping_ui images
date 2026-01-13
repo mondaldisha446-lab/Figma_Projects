@@ -23,3 +23,16 @@ I written a simple basic html code so that it will showcase my html basic knowle
 </body>
 </html>
 
+#CSS code
+h1{text-align: center;}
+
+#s1{height: 500px;
+margin-right: 5%;
+margin-left: 3%;}
+#s2{height: 500px;
+margin-right: 5%;}
+#s3{height: 500px;
+margin-right: 5%;}
+#s4{height: 500px;
+margin-right: 5%;}
+#s5{height: 500px;}
