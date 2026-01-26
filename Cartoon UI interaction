@@ -21,3 +21,22 @@ This is a design-first approach to understanding how modern web interfaces behav
 - Learning Python for programming fundamentals
 
 # view images by html and css
+HTML code
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shopping_UI</title>
+    <link rel="stylesheet" href="image.css">
+</head>
+<body>
+    <h1>Cartoon UI Images</h1>
+    <br>
+    <div>
+    <img id="s1" src="/design.png" />
+    <img id="s2" src="/design1.png" />
+    <img id="s3" src="/design2.png" />
+    </div>
+</body>
+</html>
