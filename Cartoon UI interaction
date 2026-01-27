@@ -40,3 +40,14 @@ HTML code
     </div>
 </body>
 </html>
+
+CSS code
+h1{text-align: center;}
+
+#s1{height: 250px;
+margin-right: 5%;
+margin-left: 10%;}
+#s2{height: 250px;
+margin-right: 5%;}
+#s3{height: 250px;
+margin-right: 5%;}
